@@ -1,0 +1,2230 @@
+[
+    {
+        "file": "cordova-js-src/android/nativeapiprovider.js",
+        "hash": "035f17302807fd50b779d529b2fe70e6"
+    },
+    {
+        "file": "cordova-js-src/android/promptbasednativeapi.js",
+        "hash": "f4b029f0e91729c970ff421b8f9bd22e"
+    },
+    {
+        "file": "cordova-js-src/exec.js",
+        "hash": "4d368f4918f938b17fad3f819bdda568"
+    },
+    {
+        "file": "cordova-js-src/platform.js",
+        "hash": "6e1fac8e69e82cb27178bb5a01f1d36c"
+    },
+    {
+        "file": "cordova-js-src/plugin/android/app.js",
+        "hash": "58b79c9693166d44fc65d57979fcdf28"
+    },
+    {
+        "file": "cordova.js",
+        "hash": "cf814babc4efde4acb9348ad92f2046b"
+    },
+    {
+        "file": "cordova_plugins.js",
+        "hash": "e8d9c884c3ae1deef55364392000cbd0"
+    },
+    {
+        "file": "dist/app.bundle.min.css",
+        "hash": "cb3d1dc0ed97d58941ccff141866801a"
+    },
+    {
+        "file": "dist/app.libs.min.js",
+        "hash": "b22e35e1d9abbd6458ca82e205dcddfd"
+    },
+    {
+        "file": "dist/app.min.js",
+        "hash": "c119ae2aa60766f2ebb6b5530f155bd2"
+    },
+    {
+        "file": "dist/directives.bundle.min.js",
+        "hash": "d27d3f2c03dec45266f26dcff771461b"
+    },
+    {
+        "file": "dist/features.bundle.min.js",
+        "hash": "0410e8de999abce2d8a77fcd7f37743b"
+    },
+    {
+        "file": "dist/lazy/angular-carousel.min.js",
+        "hash": "d0db1bb6faf7325f094e83d80a8ee68e"
+    },
+    {
+        "file": "dist/lazy/moment.min.js",
+        "hash": "0a93d90d821ce2028ec4cfdb59ff6b1d"
+    },
+    {
+        "file": "dist/lazy/picker/picker.js",
+        "hash": "aea1fcb8b3cb3d2a9fd8dfc1afa55d83"
+    },
+    {
+        "file": "dist/lazy/picker/picker.min.css",
+        "hash": "07d6a88f0260ed2fdd22907ad525ecda"
+    },
+    {
+        "file": "dist/lazy/picker/picker.min.js",
+        "hash": "86ce27110917f548a7848e12043ab999"
+    },
+    {
+        "file": "dist/lazy/progressbar.min.js",
+        "hash": "1970f37f615a8339b6b249e396ee7d0d"
+    },
+    {
+        "file": "dist/libraries.bundle.min.js",
+        "hash": "082aaf43075307443f31d4774bf1ba8b"
+    },
+    {
+        "file": "dist/onloadchunks.bundle.min.js",
+        "hash": "a1687742ff43279b650ef39060fe7af3"
+    },
+    {
+        "file": "dist/packed/application.bundle.min.js",
+        "hash": "4d612ed8863ce048132b9c3902fc16ba"
+    },
+    {
+        "file": "dist/packed/booking.bundle.min.js",
+        "hash": "c8644e3a2c7437fcd1ce4a3a07c4cc9d"
+    },
+    {
+        "file": "dist/packed/catalog.bundle.min.js",
+        "hash": "93249f1ed36b1a2b39d8e424617a21c3"
+    },
+    {
+        "file": "dist/packed/cms.bundle.min.js",
+        "hash": "404b15a46ece5ec247f4d51febfab997"
+    },
+    {
+        "file": "dist/packed/codescan.bundle.min.js",
+        "hash": "fee12926faa6d9c3b407ae04a2f60ef2"
+    },
+    {
+        "file": "dist/packed/contact.bundle.min.js",
+        "hash": "bccff4924d4528e797172e426019fd12"
+    },
+    {
+        "file": "dist/packed/discount.bundle.min.js",
+        "hash": "2ea36d30d1fa3b73c54404a28dd176db"
+    },
+    {
+        "file": "dist/packed/event.bundle.min.js",
+        "hash": "722a7dd4cc630439ad219ad25c04cfba"
+    },
+    {
+        "file": "dist/packed/facebook.bundle.min.js",
+        "hash": "6499cfd27ed8e47ef7f4850af5cf2d41"
+    },
+    {
+        "file": "dist/packed/folder.bundle.min.js",
+        "hash": "bbb98215bd8f92dafea427d9e5a5ea73"
+    },
+    {
+        "file": "dist/packed/form.bundle.min.js",
+        "hash": "004a6916eb954ac02ffc2aaa152dbe40"
+    },
+    {
+        "file": "dist/packed/homepage.bundle.min.js",
+        "hash": "9ae7af0bc5c73cd466ce29b3d6169528"
+    },
+    {
+        "file": "dist/packed/image.bundle.min.js",
+        "hash": "edbae03be715ce645b32bc8b256eb4b6"
+    },
+    {
+        "file": "dist/packed/links.bundle.min.js",
+        "hash": "610d35410eba125fad3cec1021ebfc54"
+    },
+    {
+        "file": "dist/packed/loyalty_card.bundle.min.js",
+        "hash": "420fb635b47d684e32d6cd1ea750eb23"
+    },
+    {
+        "file": "dist/packed/m_commerce.bundle.min.js",
+        "hash": "eee6e3b655e2285bee75db8e3b5e0dc8"
+    },
+    {
+        "file": "dist/packed/maps.bundle.min.js",
+        "hash": "86f9bfcca3409f43b7bc73d8ed7f0805"
+    },
+    {
+        "file": "dist/packed/media.bundle.min.js",
+        "hash": "64794ece469a2b1127f0e7b4719400e4"
+    },
+    {
+        "file": "dist/packed/newswall.bundle.min.js",
+        "hash": "07149c1e9d5ec4a5e5d9153b304f6e64"
+    },
+    {
+        "file": "dist/packed/padlock.bundle.min.js",
+        "hash": "71c29a6f35743fc97c47ab8533db1c75"
+    },
+    {
+        "file": "dist/packed/places.bundle.min.js",
+        "hash": "2edb4eb21579c6d302e5de7209cf0646"
+    },
+    {
+        "file": "dist/packed/privacy_policy.bundle.min.js",
+        "hash": "dbaec7bb2f80c16fe1f32a170eb150f9"
+    },
+    {
+        "file": "dist/packed/push.bundle.min.js",
+        "hash": "a3d118ae57d9380d1a4890226438d137"
+    },
+    {
+        "file": "dist/packed/radio.bundle.min.js",
+        "hash": "41692a21c394d8acefdc987a0667a391"
+    },
+    {
+        "file": "dist/packed/rss.bundle.min.js",
+        "hash": "a0c8954ad5f854a12729bb10edc1ee64"
+    },
+    {
+        "file": "dist/packed/social_gaming.bundle.min.js",
+        "hash": "71d14fa295a52a11dca209c513674e93"
+    },
+    {
+        "file": "dist/packed/source_code.bundle.min.js",
+        "hash": "13c5df6470f57cb783385bdeb076aff4"
+    },
+    {
+        "file": "dist/packed/tip.bundle.min.js",
+        "hash": "af5d15e0670d603717277d4c9425d8fc"
+    },
+    {
+        "file": "dist/packed/topic.bundle.min.js",
+        "hash": "b3bb738d6346698ff45aa2d90cac9d75"
+    },
+    {
+        "file": "dist/packed/twitter.bundle.min.js",
+        "hash": "8566b41c8ea5693ed75bf3b3fcc2fd63"
+    },
+    {
+        "file": "dist/packed/video.bundle.min.js",
+        "hash": "2b0eafccdc84ac95fbb009fa7d839b6d"
+    },
+    {
+        "file": "dist/packed/weather.bundle.min.js",
+        "hash": "116a2b534d812b81930bcd50667e219f"
+    },
+    {
+        "file": "dist/packed/wordpress.bundle.min.js",
+        "hash": "93f3a87ad55cc02ae1c3d1a0d74934de"
+    },
+    {
+        "file": "dist/packed/youtube.bundle.min.js",
+        "hash": "a39b66fd100ae1351f9750a01df215ad"
+    },
+    {
+        "file": "dist/providers.bundle.min.js",
+        "hash": "1c3b4067e2a323298bb478a93600a8ee"
+    },
+    {
+        "file": "dist/services.bundle.min.js",
+        "hash": "d870de2a89afcfca3517883805c534ce"
+    },
+    {
+        "file": "dist/templates.js",
+        "hash": "4df280f9141987c26172bbe35d6fcaa8"
+    },
+    {
+        "file": "dist/utils.bundle.min.js",
+        "hash": "7cee20e32f4dafeb9a95490a4e0d14db"
+    },
+    {
+        "file": "dist/app.bundle-min.css",
+        "hash": "e742b50cf5ef1ab5f441f1c814d10468"
+    },
+    {
+        "file": "features/job/assets/templates/l1/img/blank-700-440.png",
+        "hash": "13f338cace1235961899a6c7797ebeba"
+    },
+    {
+        "file": "features/job/assets/templates/l1/img/job-header.png",
+        "hash": "47c4e41fe4a0d48714bbb3bb4ea10e64"
+    },
+    {
+        "file": "features/job/assets/templates/l1/img/no-category.png",
+        "hash": "57998f2312f4e77110aed99ead926ca4"
+    },
+    {
+        "file": "features/job/assets/templates/l1/img/no-place.png",
+        "hash": "b4f7d359f046ab466ab3caf2d80b43d9"
+    },
+    {
+        "file": "features/job/assets/templates/l1/img/search.svg",
+        "hash": "8270788bde487d82a2dc5d8e499aacfd"
+    },
+    {
+        "file": "features/job/assets/templates/l1/admin-modal.html",
+        "hash": "88544f23346a5e0d22ac087bf1fe32c5"
+    },
+    {
+        "file": "features/job/assets/templates/l1/contact.html",
+        "hash": "20203c2573bbf5167a778d6d64f29be1"
+    },
+    {
+        "file": "features/job/assets/templates/l1/create-place.html",
+        "hash": "501f977e0a45a9ea54eb61666edb6ec3"
+    },
+    {
+        "file": "features/job/assets/templates/l1/list.html",
+        "hash": "b6b234b872b1c6b8289f61fad1113d6b"
+    },
+    {
+        "file": "features/job/assets/templates/l1/manage-company.html",
+        "hash": "f2c873af26512dba83613d653494fe31"
+    },
+    {
+        "file": "features/job/assets/templates/l1/manage-place.html",
+        "hash": "3c006b1bf560b128a1c6bab3e3ec77d1"
+    },
+    {
+        "file": "features/job/assets/templates/l1/more.html",
+        "hash": "5b72917d58448de582f3222de4558ce5"
+    },
+    {
+        "file": "features/job/assets/templates/l1/view-company.html",
+        "hash": "9fc514df62da51026a82dbcc0e2ccb83"
+    },
+    {
+        "file": "features/job/assets/templates/l1/view.html",
+        "hash": "4cda97caf4b492850bff5a2cb4daa4eb"
+    },
+    {
+        "file": "features/job/job.bundle.min.js",
+        "hash": "357800c24b82e996544c8d2058496377"
+    },
+    {
+        "file": "features/job/job.js",
+        "hash": "8bf33ef277729a89ec5500355c6832bf"
+    },
+    {
+        "file": "features/places/assets/templates/l1/img/no-place.png",
+        "hash": "b4f7d359f046ab466ab3caf2d80b43d9"
+    },
+    {
+        "file": "features/places/assets/templates/l1/img/blank-700-440.png",
+        "hash": "13f338cace1235961899a6c7797ebeba"
+    },
+    {
+        "file": "features/places/assets/templates/l1/img/no-category.png",
+        "hash": "57998f2312f4e77110aed99ead926ca4"
+    },
+    {
+        "file": "features/places/assets/templates/l1/img/search.svg",
+        "hash": "8270788bde487d82a2dc5d8e499aacfd"
+    },
+    {
+        "file": "features/places/assets/templates/l1/places.html",
+        "hash": "b0ce0e45b3c63f97c28a438779db76d4"
+    },
+    {
+        "file": "features/places/assets/templates/l1/maps.html",
+        "hash": "635571b5415f90998b4054a16b104058"
+    },
+    {
+        "file": "features/places/assets/templates/l1/filter.html",
+        "hash": "d5c0e535ec492c7b58293bd864ee04b5"
+    },
+    {
+        "file": "features/places/assets/templates/l1/view.html",
+        "hash": "6fc62c1a525ce1a81efdd64b692c1731"
+    },
+    {
+        "file": "features/places/assets/templates/l1/categories.html",
+        "hash": "cd37b6651416ecb1cb1e2d9f84a8bb0c"
+    },
+    {
+        "file": "features/places/places.bundle.min.js",
+        "hash": "650ca081ea201c84b87fc601ca26d925"
+    },
+    {
+        "file": "features/places/places.js",
+        "hash": "3e8e82e46f02cc86093560699756bd8e"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/l2/list.html",
+        "hash": "e771a761a7f1c3188c361987bb0835ea"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/l6/list.html",
+        "hash": "f8c131a3679eafb797df2ef07b7eaa17"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/l4/list.html",
+        "hash": "93cbe66d3ffee945c9f4ec329152005d"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/l1/list.html",
+        "hash": "adb2cc52da51a68126bbcd1898f3e7bb"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/l3/list.html",
+        "hash": "afd617a8d5cff02fffca8ecff4669bf1"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/l5/list.html",
+        "hash": "1bad301cb1d2ad9332af66e739f97ab0"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/cover.html",
+        "hash": "3b4dc16397f7dce602c7935f46ea0268"
+    },
+    {
+        "file": "features/folder_v2/assets/templates/search.html",
+        "hash": "ab2d18b54fcc006f57ba9e800b7c14d9"
+    },
+    {
+        "file": "features/folder_v2/folder_v2.bundle.min.js",
+        "hash": "bb4f7e866fd48a09920a3ef0b6167f4d"
+    },
+    {
+        "file": "features/folder_v2/folder_v2.js",
+        "hash": "c40e4155355ccef25bcb63cb216b9581"
+    },
+    {
+        "file": "features/wordpress_v2/assets/templates/l1/view.html",
+        "hash": "9525c76ac0ee14ade338076a725fde8f"
+    },
+    {
+        "file": "features/wordpress_v2/assets/templates/l1/list.html",
+        "hash": "bfdd9c79da7fff02362e3c0f6061f375"
+    },
+    {
+        "file": "features/wordpress_v2/wordpress_v2.bundle.min.js",
+        "hash": "e619ecc64fe233bace1ceacbff56d202"
+    },
+    {
+        "file": "features/wordpress_v2/wordpress_v2.js",
+        "hash": "57126d54cf1acbdf93da780dcb1455b7"
+    },
+    {
+        "file": "features/classifieds/assets/templates/modals/contact.html",
+        "hash": "28782efdcfd9eaebe087534266080dba"
+    },
+    {
+        "file": "features/classifieds/assets/templates/index.html",
+        "hash": "d76b638745b56410c1c3d9fac31b72bb"
+    },
+    {
+        "file": "features/classifieds/assets/templates/view.html",
+        "hash": "d7562c8beb7a27155a341c2971c571f8"
+    },
+    {
+        "file": "features/classifieds/assets/templates/edit.html",
+        "hash": "37033ad5172e5b2f267eb6f4169b5289"
+    },
+    {
+        "file": "features/classifieds/classifieds.bundle.min.js",
+        "hash": "90ae2d261ea33189086f41d3cd8a3e51"
+    },
+    {
+        "file": "features/classifieds/classifieds.js",
+        "hash": "93457aad8236a3bde9e36a0100ec1d4e"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/payment-modals/stripe-payment.html",
+        "hash": "7b2d4ca082949ad4a6fffb63873f67fa"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/payment-modals/yandex-payment.html",
+        "hash": "657507fce8f86982dc19cc16601f4002"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/cloudpayments.html",
+        "hash": "c12511f023a3eafdc724a914cb796826"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/confirmation.html",
+        "hash": "036411dd50de91ab3f9f39759954bea2"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/customer.html",
+        "hash": "3807ef02d82f093b2d05a901b2a4da07"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/delivery.html",
+        "hash": "53352d79c02675fa2c36e3a156ac4258"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/error.html",
+        "hash": "77379134441ba2b8eb21e1664692c8b7"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/history.html",
+        "hash": "493a062643f2fc71ab7d9595164fdbb4"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/history_details.html",
+        "hash": "1bb79cb5175b017fa44da3e2d72d9aed"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/payment.html",
+        "hash": "f4cc2d81225d56fe15b38b07acbcf5e2"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/store.html",
+        "hash": "8e1090b3b944fed13d76c101b08f7f4f"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/stripe.html",
+        "hash": "7b2d4ca082949ad4a6fffb63873f67fa"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/success.html",
+        "hash": "737cf6714236af95892cc58c3d2a5fc8"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/sales/iyzico-payment.html",
+        "hash": "d175fbe6485372b459334b7b1d7315d2"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/cart.html",
+        "hash": "d0dcefbd30ce3518d2f73065c29ab5bd"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/offline.html",
+        "hash": "39b81bc867bdfaa15bb47e7c9b801c67"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l1/product.html",
+        "hash": "df326ee815b7f421161bfc7adc4b5520"
+    },
+    {
+        "file": "features/m_mobilcart/assets/templates/l3/list.html",
+        "hash": "aec71c49cec8c3e3ee7e6925f31d51d3"
+    },
+    {
+        "file": "features/m_mobilcart/m_mobilcart.bundle.min.js",
+        "hash": "eff0b9ca2028f04efe2bfe0b465cc914"
+    },
+    {
+        "file": "features/m_mobilcart/m_mobilcart.js",
+        "hash": "99ebd5620e829e4f8ed268f5fbf2ca53"
+    },
+    {
+        "file": "features/costform/assets/templates/l1/view.html",
+        "hash": "c6fb4e8bee60b0ba5ad862eae24cf4a2"
+    },
+    {
+        "file": "features/costform/costform.bundle.min.js",
+        "hash": "816e9fa6ed429675ab5038a2f3ec3878"
+    },
+    {
+        "file": "features/costform/costform.js",
+        "hash": "494c03190168b388144868436b3f2bc4"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-booking.html",
+        "hash": "1ca8feb8146227118227659443a1cbba"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-dish-moption-checkbox.html",
+        "hash": "b64dfbdfe17d9d641c6832ce6fabf631"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-dish-moption-select.html",
+        "hash": "2982e8c50deabe2c89270587b745b35b"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-dish.html",
+        "hash": "1e654d7fae67cf04458b9c58ede5e7db"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-dishes-big.html",
+        "hash": "4d388afcbe9d4a41c966879caa658603"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-dishes-filter.html",
+        "hash": "04f28d028573615a23b02087f9f7aab2"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-dishes-submenu.html",
+        "hash": "4e8cb66f005e083df9de3f7b58002660"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-map.html",
+        "hash": "96ac68bf4a8958d9fe55f6ce1178601e"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-menu-big.html",
+        "hash": "15e75c3defb0758562be632ad1d29532"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace-submenu.html",
+        "hash": "4e8cb66f005e083df9de3f7b58002660"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cafeplace.html",
+        "hash": "1dc7737e3b94397a25d6d0fe387d511c"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cart.html",
+        "hash": "ca0aca26e549fca4be34f4dab115d2f7"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-cuisine-cafeplaces.html",
+        "hash": "e3e0d91d860ac24d1824df301ffa5d90"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-customer-booking-history.html",
+        "hash": "b86d1f35517d82b6605d3278c718f80d"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-customer-orders-history-detail.html",
+        "hash": "907021f735b9b6f79f1a7281a9611208"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-customer-orders-history.html",
+        "hash": "a12d29908c8a95ef6a74e381c1a88e72"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-customer.html",
+        "hash": "631e9f16902db0411c485a291d1ce57f"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-footer.html",
+        "hash": "e62719a57ad3c23df6ddacdae841ef59"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-main.html",
+        "hash": "9ba8430cc1a9fc11edec6731f2ce453c"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-make-order.html",
+        "hash": "33310914b37159bd8caf164c0b500959"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-map.html",
+        "hash": "96ac68bf4a8958d9fe55f6ce1178601e"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-order-complete.html",
+        "hash": "23aaeef339a95a11163b1c041d4dbe18"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/view.html",
+        "hash": "891d0e5bab9f0f941536262df6f77dc5"
+    },
+    {
+        "file": "features/restaurants/assets/templates/l1/restaurants-edit-note.html",
+        "hash": "2fa5fe6a5d5ddfa7e6de393b03bb0f66"
+    },
+    {
+        "file": "features/restaurants/restaurants.bundle.min.js",
+        "hash": "ac2cbd6af99dc3a2a29c03cbc9c1720a"
+    },
+    {
+        "file": "features/restaurants/restaurants.js",
+        "hash": "89bbb6cd6e214189c2aa767b8d2a40ca"
+    },
+    {
+        "file": "img/cluster/m1.png",
+        "hash": "fe953f48d20a57a5155040dd7c8c41bc"
+    },
+    {
+        "file": "img/cluster/m2.png",
+        "hash": "558853d99c4fe2738843b60824a9eda9"
+    },
+    {
+        "file": "img/cluster/m3.png",
+        "hash": "4c6afbabe37e08ce966a66dc5031375c"
+    },
+    {
+        "file": "img/cluster/m4.png",
+        "hash": "dc81d55abcbb32eb8de2cf471c7e3735"
+    },
+    {
+        "file": "img/cluster/m5.png",
+        "hash": "52ccee156df03d352192a57cb5cf1d08"
+    },
+    {
+        "file": "img/drop-alpha.png",
+        "hash": "8d8801c96ea057e11881d96f69867217"
+    },
+    {
+        "file": "img/drop-color.png",
+        "hash": "e47fd57e8abbc38713af8f14a98826a1"
+    },
+    {
+        "file": "img/drop-shine.png",
+        "hash": "ee4839555b1a4e86b949d731925c017c"
+    },
+    {
+        "file": "img/drop-shine2.png",
+        "hash": "5598e59d9a835dd878aac2de36b7fdaf"
+    },
+    {
+        "file": "img/ionic.png",
+        "hash": "251ebf03b1c7889cf36cbcbcce8f689e"
+    },
+    {
+        "file": "img/loyaltycard/point-validated.png",
+        "hash": "3c932b259e976bc80e3629c79dba8618"
+    },
+    {
+        "file": "img/loyaltycard/point.png",
+        "hash": "50796b4e58e98e953294dcd5a4427bbc"
+    },
+    {
+        "file": "img/pictos/sprite-play.png",
+        "hash": "9b05a1ac5a31da5ef1963a457e7ee6bd"
+    },
+    {
+        "file": "img/placeholder/530.272.png",
+        "hash": "7ab094f7aab336c0d572d9aca6f8a7f6"
+    },
+    {
+        "file": "img/placeholder/blank-512.png",
+        "hash": "a6ff25e8192212ea93698d02692a9ea7"
+    },
+    {
+        "file": "img/placeholder/white-1.png",
+        "hash": "9ac991680c03278d321e0062b1985c8e"
+    },
+    {
+        "file": "img/water/texture-bg.png",
+        "hash": "95b64218d9da812fd558bef348d3ffc9"
+    },
+    {
+        "file": "img/water/texture-fg.png",
+        "hash": "77e7f998d4e5713e9364999829d7c6f7"
+    },
+    {
+        "file": "img/weather/texture-drizzle-bg.png",
+        "hash": "60519e338aa41ef66c2a73e4b9a68cdb"
+    },
+    {
+        "file": "img/weather/texture-drizzle-fg.png",
+        "hash": "717dcf6b83e61b23e7fb7b70cb8fb4a0"
+    },
+    {
+        "file": "img/weather/texture-fallout-bg.png",
+        "hash": "4e53632ba9ac77cf018650cccb5b602f"
+    },
+    {
+        "file": "img/weather/texture-fallout-fg.png",
+        "hash": "2cd8a516e555901b5abfa8bd77792a66"
+    },
+    {
+        "file": "img/weather/texture-rain-bg.png",
+        "hash": "b73d0153f6d457c20163e32b5eeec122"
+    },
+    {
+        "file": "img/weather/texture-rain-fg.png",
+        "hash": "422d37823e739b8c005e8ad5a427c877"
+    },
+    {
+        "file": "img/weather/texture-storm-lightning-bg.png",
+        "hash": "7bd70a2c9048c60a34960e7a0bb468db"
+    },
+    {
+        "file": "img/weather/texture-storm-lightning-fg.png",
+        "hash": "bc969c9632e5c9d395a18e43ff833565"
+    },
+    {
+        "file": "img/weather/texture-sun-bg.png",
+        "hash": "8456b749ed872438f633a17140e7eeeb"
+    },
+    {
+        "file": "img/weather/texture-sun-fg.png",
+        "hash": "a5995e3198c6bb46c79af3590294a4b0"
+    },
+    {
+        "file": "index.html",
+        "hash": "9a24ca3b7b074f81af333f35f78ed554"
+    },
+    {
+        "file": "js/directives/repeat-done.js",
+        "hash": "4615ca360cf531b8d2e56e8a67e1832a"
+    },
+    {
+        "file": "js/directives/sb-datetime-picker.js",
+        "hash": "ef7498df60bcd4e9e84b35df8ffd54a3"
+    },
+    {
+        "file": "js/directives/slidingTabsDirective.js",
+        "hash": "fd464150a3b2426cc75528d5aeeaadeb"
+    },
+    {
+        "file": "lib/ionic/fonts/ionicons.eot",
+        "hash": "0eebcf2fce39e48a2e0c2800010bdc20"
+    },
+    {
+        "file": "lib/ionic/fonts/ionicons.svg",
+        "hash": "4aead6246e7509ec427ea53508b6bf3c"
+    },
+    {
+        "file": "lib/ionic/fonts/ionicons.ttf",
+        "hash": "f8bdcd01aa170bccd7a08d744e3b42fc"
+    },
+    {
+        "file": "lib/ionic/fonts/ionicons.woff",
+        "hash": "ebfb9d24865fa3a2d848a906e0878650"
+    },
+    {
+        "file": "lib/ngCordova/dist/ng-cordova.js",
+        "hash": "e14b2826d8e533b3d43cd4b8380a52b4"
+    },
+    {
+        "file": "lib/polyfills.js",
+        "hash": "58805a92a73e1dae98a3b240a2dad43c"
+    },
+    {
+        "file": "lib/utils.js",
+        "hash": "ab3b9e394614148ec17945c6bdceb82a"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_swipe/swiper/swiper.min.css",
+        "hash": "6af34d0737ad0ca608111771cf74cc79"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_swipe/swiper/swiper.min.js",
+        "hash": "fb13ef3e875ca3497ede35d3774be9d3"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_swipe/style.css",
+        "hash": "b285fcc54ab80701388f1234908daf46"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_swipe/hooks.js",
+        "hash": "3b40cad03d0f70b4d68ada1790724ea1"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_swipe/view.html",
+        "hash": "a06231ac1c728e8acfeb36c092f03835"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_year/style.css",
+        "hash": "b5ce1a615a1c9edfef71df997ffe36e4"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_year/hooks.js",
+        "hash": "8a3c60abbca6edff19fdecb715a85ab5"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_year/modal.html",
+        "hash": "14bfb9d9713507ffac41649c4cd90844"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_year/view.html",
+        "hash": "84bdd0187eb60b8b1967cf6f68dc4e25"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_18/style.css",
+        "hash": "2e0ce3265fbed5c738e34d137ad4c780"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_18/hooks.js",
+        "hash": "7f3acc42975198ba1de7c1be90931fed"
+    },
+    {
+        "file": "modules/layout/home/layout_siberian_18/view.html",
+        "hash": "f9ac0336d2be1b4556c5b5106bb8f6a0"
+    },
+    {
+        "file": "modules/layout/home/layout_90/style.css",
+        "hash": "a057d4f24a9d1ce7994e7ce8a1aef1eb"
+    },
+    {
+        "file": "modules/layout/home/layout_90/hooks.js",
+        "hash": "72f089d92f4dfba4fcba6eb2bcb4198a"
+    },
+    {
+        "file": "modules/layout/home/layout_90/view.html",
+        "hash": "ac0c9dfbe153654843da9a49fcaeabd2"
+    },
+    {
+        "file": "modules/layout/home/layout_90/r9-menu.js",
+        "hash": "b2c406828249ae373bbb327513060c72"
+    },
+    {
+        "file": "modules/layout/home/layout_Videone/style.css",
+        "hash": "63d621d36f0da19c715944eee367afcf"
+    },
+    {
+        "file": "modules/layout/home/layout_Videone/hooks.js",
+        "hash": "e94f8ce91ba680b4e8d4b2b01bda79ca"
+    },
+    {
+        "file": "modules/layout/home/layout_Videone/view.html",
+        "hash": "7be19d5b7c996f0f9ea9657d47a6daf0"
+    },
+    {
+        "file": "modules/layout/home/layout_cinema/style.css",
+        "hash": "16b5c1d1d3d67e326309494d3c18ee49"
+    },
+    {
+        "file": "modules/layout/home/layout_cinema/hooks.js",
+        "hash": "2d8c72bef296910fde72e234534f994e"
+    },
+    {
+        "file": "modules/layout/home/layout_cinema/view.html",
+        "hash": "8360d1138a8e950ef9a10cb4771e3c45"
+    },
+    {
+        "file": "modules/layout/home/layout_baguera_12/style.css",
+        "hash": "245bd05d69c4a9aca5ca16d79425c048"
+    },
+    {
+        "file": "modules/layout/home/layout_baguera_12/hooks.js",
+        "hash": "3b1368f72dc7b15782f34b0627b32ac9"
+    },
+    {
+        "file": "modules/layout/home/layout_baguera_12/modal.html",
+        "hash": "eaa2474c9716c4853e66f83d7093b7cc"
+    },
+    {
+        "file": "modules/layout/home/layout_baguera_12/waves-effect.js",
+        "hash": "acce85d08cb9a2239ce58918f7ce78ab"
+    },
+    {
+        "file": "modules/layout/home/layout_baguera_12/view.html",
+        "hash": "4f6a12050c1bed99bdca1db423e3d23c"
+    },
+    {
+        "file": "modules/layout/home/layout_ZainVideo/hooks.js",
+        "hash": "b403ae9abe3fd1246c68b00d94ba3370"
+    },
+    {
+        "file": "modules/layout/home/layout_ZainVideo/view.html",
+        "hash": "131c1eb3ffaaf548363aa050ca4193f7"
+    },
+    {
+        "file": "modules/layout/home/layout_ZainVideo/style.css",
+        "hash": "791df889d0d002944c07a8f7a7ce8a63"
+    },
+    {
+        "file": "modules/layout/home/Apps-Tech-1_layout/view.html",
+        "hash": "dc929add252d5d79b69db4e1f4ba759b"
+    },
+    {
+        "file": "modules/layout/home/Apps-Tech-1_layout/hooks.js",
+        "hash": "738d1524917e905fa612a153b0a4bb34"
+    },
+    {
+        "file": "modules/layout/home/Apps-Tech-1_layout/style.css",
+        "hash": "421871168317da96338f16804e79591e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/back.png",
+        "hash": "e4c6d1c55f215baddcba99633ab4e88a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/bike.png",
+        "hash": "83b7d294494508c02c51539fb0f7b853"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/blog.png",
+        "hash": "d66f7eb44799a4ee77a6296262aaba28"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/briefcase.png",
+        "hash": "032ad50e930a73e7fd23fffdaae30217"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/building.png",
+        "hash": "c413cc79e15ff32ed5ade589325a069a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/bus.png",
+        "hash": "0d37287a2d767850c9e474f1089f617b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/car.png",
+        "hash": "deb12d675e65298d3fa3c1b849cb193f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/cart.png",
+        "hash": "49643c95f63d8c4eda8d4ed782bf4624"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/categories.png",
+        "hash": "9b2a958613d9b7732c7f7cec668debe7"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/contact.png",
+        "hash": "d76e59eb9fbd8e51a2459a5734be0586"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/dribbble.png",
+        "hash": "7294f22128dd0984e08a2a5437ffc6ed"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/drink.png",
+        "hash": "f3f454f775b440cbcf057c019656ccd7"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/electronics.png",
+        "hash": "2caa55e8a4db2550d39538a32c24d176"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/facebook.png",
+        "hash": "ccc04f326f583010f1abc890cabc4037"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/favorites.png",
+        "hash": "fc778474f64f209a8cc150dad817c0f4"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/features.png",
+        "hash": "87a1c7bfbe86f5e3aba573709308b9e9"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/food.png",
+        "hash": "975b89f9c561c709915daf55507e8103"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/form.png",
+        "hash": "bbf995078f8dc5ea2229273d9327cac2"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/gift.png",
+        "hash": "67072692cbbf9823a435ae0d4ca21bbd"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/gplus.png",
+        "hash": "18bc08d7cd5e5b931f5400dcf9ed6cca"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/home.png",
+        "hash": "10b83730ba3ace1efb8deaa0f67c4f4b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/instagram.png",
+        "hash": "78ab1de93e039af8c4aae01b8152e49e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/like.png",
+        "hash": "bf21c81342b029342eb4883dc9c36cfb"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/linkedin.png",
+        "hash": "c78860144a1b21153bde5a4488d3ed68"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/lock.png",
+        "hash": "0a8559a97e231a307580cb8be5844950"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/logout.png",
+        "hash": "0a58c84aa6be2f6debc13f0613a0df96"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/love.png",
+        "hash": "25c76a178cef3d47c2adf9959fa278cf"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/map.png",
+        "hash": "2e0521ffea8102b7afd007ded4a13c37"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/menu.png",
+        "hash": "aca7e2024e0f563e86cd85ec1556ba9b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/menu_close.png",
+        "hash": "5c46ccea5194c972576923ee3ab715fe"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/message.png",
+        "hash": "206b941dbdd68e4209db76dbc35661f1"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/mobile.png",
+        "hash": "9f70be59f1c07b069d296d29508af4ef"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/more.png",
+        "hash": "d79cb91f4feb1a530f70c0147145df94"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/music.png",
+        "hash": "55ab6aa536f31bcb9205fea3fce9590f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/next.png",
+        "hash": "b50875320733e9d1f3d538f7b2f6f291"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/orders.png",
+        "hash": "02fc830a61c583655c5f7035026ef5f5"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/phone.png",
+        "hash": "3fa5ea722b4a97129efb81fe5bae74dc"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/photos.png",
+        "hash": "8b8540cc88ad4b13455a7260eb0e0649"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/piechart.png",
+        "hash": "78a3f7f570f2de9112cebab22d3e7e8f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/pinterest.png",
+        "hash": "8ac138e96f994d02c3bf7a6ed6683438"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/plus.png",
+        "hash": "dc5c8e8dc18d055f200496df5e3b0a6b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/rocket.png",
+        "hash": "c5b838312143ac46b7410b90cb5c3a47"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/search.png",
+        "hash": "05ddca10009ea3fc3eb41ea6af9f128a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/settings.png",
+        "hash": "8bbbeb6e33f88fca7e280c77b1508b3b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/shop.png",
+        "hash": "aa8443255641ec691e1db3dd6c255e0d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/slider.png",
+        "hash": "14b7ae369534e5709f52311ca6699c31"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/tables.png",
+        "hash": "bf80b05690bbc36c7ba1a43fd92c1a4d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/tabs.png",
+        "hash": "4a2aeb6785d7043bcc5abd32a28a83aa"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/toggle.png",
+        "hash": "a3782a2fd36ecb3887b30720e834bca7"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/trash.png",
+        "hash": "db93f18705cbb9de5dd4f56901e1b595"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/twitter.png",
+        "hash": "dab55caab5fb92c88e1e5a49573f557d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/user.png",
+        "hash": "3a45057ed1127900d1dd885097afda3a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/users.png",
+        "hash": "dd972cce7446e65a269e78eeab656053"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/black/video.png",
+        "hash": "abf6f31906ad6221e43282b3a451a3ea"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/back.png",
+        "hash": "b301c0ecd4f2a55e1d473e053b95ad25"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/bike.png",
+        "hash": "54d0527366c4f94b4b5cfad7ad088d95"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/blog.png",
+        "hash": "2edd1a026708506f7c1a3f74eef0560f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/briefcase.png",
+        "hash": "d626da8c30432ce659b29ad2921301ec"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/building.png",
+        "hash": "f6678d6e6c327b9dded73b1beb7a7233"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/bus.png",
+        "hash": "c137cdac346d37f170ce98dc94eef1d7"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/car.png",
+        "hash": "a119e7da298d15e08502526fc83b29c5"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/cart.png",
+        "hash": "4e29bb336f0d6caf45ac09bd56e0f21d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/categories.png",
+        "hash": "6b24c1a06b5116b2bbee2b8a0af3b1ff"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/contact.png",
+        "hash": "e2b2e6959eeaff454b798de9a7af21ec"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/dribbble.png",
+        "hash": "afc20b901dd38a94d18ce7dda65f4550"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/drink.png",
+        "hash": "e4a607a123e316b03369aefd6fdc413a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/electronics.png",
+        "hash": "fb474f707c53e9a14a1004a805f36da8"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/facebook.png",
+        "hash": "875ff73d94247cd821bdabcc30e1d53b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/favorites.png",
+        "hash": "e69e75f32f9dfc8c003d2c557ac31a04"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/features.png",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/food.png",
+        "hash": "0dc96369b69d5c47ef9a1c4ccb937305"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/form.png",
+        "hash": "59d89b7dec91a0edc8293c80998c953c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/gift.png",
+        "hash": "4fa94c3e009993dc8faf3c344c8aac6e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/gplus.png",
+        "hash": "4cf4eb27ee7eb8b930def7533df98424"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/home.png",
+        "hash": "86f4bebf1b95c25c0f1eb24062a60f74"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/instagram.png",
+        "hash": "5afdf4af1dbb878852a15513dc466c00"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/like.png",
+        "hash": "499902e507eddbd578d2639c0b9ec17e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/linkedin.png",
+        "hash": "148b692cb8eb2e52675294690657cabb"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/lock.png",
+        "hash": "bb18e639d60bff1be06b5abf509b919d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/logout.png",
+        "hash": "3950e491bfff786666d32de21c32d38c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/love.png",
+        "hash": "4e5264cda13f0c09bcc017110611b9cb"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/map.png",
+        "hash": "c84a2466fdabe5edfeeb3ed1bc31ab23"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/menu.png",
+        "hash": "7df3cc5ac8fc5baf8bc00950b47e98a3"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/menu_close.png",
+        "hash": "016aad15518da941559bf6e2093fd42c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/message.png",
+        "hash": "4cb9a92570e05e30430bba2e02d33609"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/mobile.png",
+        "hash": "1361d495b31d7277b89b2394c7cc096f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/more.png",
+        "hash": "6cbadf8e9eda8166a30612c9e96eed4c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/music.png",
+        "hash": "f1a35b8ecd0c39b3f18e4683352c8302"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/next.png",
+        "hash": "dbfe52ef3ad5866f51ed3a734e461889"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/orders.png",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/phone.png",
+        "hash": "c19de3174f19510815bc4e0c42e801da"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/photos.png",
+        "hash": "9439e7ed43948b0737251d4e5a01adbd"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/piechart.png",
+        "hash": "a0e215b9d3c03641fb69938b7aef811c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/pinterest.png",
+        "hash": "844a47783a3c376a558bcf9701422fb3"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/plus.png",
+        "hash": "dc5c8e8dc18d055f200496df5e3b0a6b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/rocket.png",
+        "hash": "2ddb41dc1b1ec51255280489908dacd3"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/search.png",
+        "hash": "f96dc60490f0a6d458b5c7d9ff37d348"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/settings.png",
+        "hash": "17b1cda1f073dfe2235d937f85545a6f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/shop.png",
+        "hash": "493790b15cac011e953c6791d5bcd2be"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/slider.png",
+        "hash": "5410c70cb7d1d2ba487f8e3770af7347"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/tables.png",
+        "hash": "14d77a96c12592af2f862e27373820f8"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/tabs.png",
+        "hash": "72bbf31c83c49dfab4137fd6e270e6d1"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/toggle.png",
+        "hash": "406d3fb2ff29e2313a7a63d5bd936993"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/trash.png",
+        "hash": "f5b17b4c0c075d7c32dfdaa7d6650905"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/twitter.png",
+        "hash": "baaa6ef8cefaee0580649950856d454f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/user.png",
+        "hash": "5e89b3a0350ae7d89072d49344f083f5"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/users.png",
+        "hash": "7c87b37f8ea24e5b467d79ee75a45fd1"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/green/video.png",
+        "hash": "8102dfff600f43adab2e5cd5646306ad"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/back.png",
+        "hash": "93f01057a4138c678ada73662f75dafe"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/bike.png",
+        "hash": "fb59934cbadfcd0163593e31ff62de63"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/blog.png",
+        "hash": "d2c3b7b6261e4690e855a8e62057f957"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/briefcase.png",
+        "hash": "dde7c0002bdb3aa2fe9451c9864a51db"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/bus.png",
+        "hash": "3489941341696ff87e83d066af4e8c4e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/car.png",
+        "hash": "4f9a1767adf10f3cba795a7c4c968717"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/cart.png",
+        "hash": "f6e00fe8516fb32f4d6c8394ecb43528"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/categories.png",
+        "hash": "385a0eca845a971c4021b0b72f78dd6b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/contact.png",
+        "hash": "e07444058cb6c7684e73752ec8d10787"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/dribbble.png",
+        "hash": "dbcd950af278a190e4f112e0e26a96c5"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/drink.png",
+        "hash": "f7034ecfcf87cc9a6319b1d9ca0b731b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/electronics.png",
+        "hash": "7b547dea4b4bc32b911594e34fed8bc2"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/facebook.png",
+        "hash": "8df539bed4825eec7f6578fcabdd3c21"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/favorites.png",
+        "hash": "64a5bf72ce2c3b6675da0f8511b1313a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/features.png",
+        "hash": "70f1562a9924ac7471d6470bde4e5616"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/food.png",
+        "hash": "6894c0a04605b4e4a73cab7ccc05ecb4"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/form.png",
+        "hash": "d125052f1bd71d92b4c5af770fe56bef"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/gift.png",
+        "hash": "d1f8d0617c532af7dbfb9ed72c7ffb1f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/gplus.png",
+        "hash": "0d19cae5e92afabd5f4e0c26e95f0804"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/home.png",
+        "hash": "bb988ed76b18e7e681c92674a8ea3813"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/instagram.png",
+        "hash": "8af2e4f54a9a40979701d8f0244b8512"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/like.png",
+        "hash": "1ff34f20fe903a492e4bfe511d1ff30a"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/linkedin.png",
+        "hash": "3a98353b84c2c1a5f34b1654f2f37181"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/lock.png",
+        "hash": "719b9108b9ffa9e43c75ac6c0dc763f2"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/logout.png",
+        "hash": "048b758523782d6a6d39f047df3ac9d6"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/love.png",
+        "hash": "9c8c5f5c2a137c7c185be85935eabc6f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/map.png",
+        "hash": "a00e7bf0e4cd6f8880ed83c0a8904d88"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/menu.png",
+        "hash": "da0f39396456312a6464af3009c347fd"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/menu_close.png",
+        "hash": "2d05930623b0263339f2313060a31d92"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/message.png",
+        "hash": "1656d63013070f2cb8de4923611cf135"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/mobile.png",
+        "hash": "383c0ed08290f8428086327c4de08262"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/more.png",
+        "hash": "e527066f5961d50dcc30d6e35cf7f7c6"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/music.png",
+        "hash": "7e57901d65cbdde0c67693d17aab2c3b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/next.png",
+        "hash": "34ff26077fe70473b32a9e19392f71d4"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/orders.png",
+        "hash": "099b58e3ffaaa5736a3926a013674bac"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/phone.png",
+        "hash": "99d0294feee455a5e2cafa923bc2dd8d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/photos.png",
+        "hash": "2806fc635b50fdd2b4804f74d25dd5dd"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/piechart.png",
+        "hash": "9517d9b04a6f8cb8765b025608a7d20e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/pinterest.png",
+        "hash": "6fbeb990cb4c4d27ca65ca39613928dc"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/plus.png",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/rocket.png",
+        "hash": "1c1941b37218cb554ffa7092a050f7fa"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/search.png",
+        "hash": "436b5f69d36dc362d5a42083d9c57430"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/settings.png",
+        "hash": "ed1b206cbbaf856c7cd228cf8ffdf8d2"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/shop.png",
+        "hash": "94ac9fcbe45af31e6c717a6c9d80e583"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/slider.png",
+        "hash": "2991ebf74fb888013fc8105c80aa40d5"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/tables.png",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/tabs.png",
+        "hash": "a38cf7269982fd985396feee1e0ee54f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/toggle.png",
+        "hash": "be7f5bb897e76225a44af3213253bdea"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/trash.png",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/twitter.png",
+        "hash": "0cf308decb201fb2df9dce9564bfe1f1"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/user.png",
+        "hash": "a1de5238213469b9d9e7a26a70a7d612"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/users.png",
+        "hash": "a4ff8f20b939451c1ca03bd44deb526f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/icons/white/video.png",
+        "hash": "2cd2208a28e1acd9edbde67b8d827edb"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo1.jpg",
+        "hash": "a329d27fdf885a4d5cd114053f2c604c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo10.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo11.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo12.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo13.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo14.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo15.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo2.jpg",
+        "hash": "a329d27fdf885a4d5cd114053f2c604c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo3.jpg",
+        "hash": "a329d27fdf885a4d5cd114053f2c604c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo4.jpg",
+        "hash": "a329d27fdf885a4d5cd114053f2c604c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo5.jpg",
+        "hash": "a329d27fdf885a4d5cd114053f2c604c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo6.jpg",
+        "hash": "a329d27fdf885a4d5cd114053f2c604c"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo7.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo8.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/photos/photo9.jpg",
+        "hash": "eaf659d61e6f8fabcb935f418e2b3527"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/slider/slide1.jpg",
+        "hash": "67e31837d882b772549105bcd7a3ec9f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/slider/slide2.jpg",
+        "hash": "67e31837d882b772549105bcd7a3ec9f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/slider/slide3.jpg",
+        "hash": "67e31837d882b772549105bcd7a3ec9f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/apple-touch-icon.png",
+        "hash": "3d54b54a61fc1138271f61f4554747dd"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/apple-touch-startup-image-320x460.png",
+        "hash": "fcd0d631fc62b6f7beabfa0c02d76551"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/apple-touch-startup-image-640x920.png",
+        "hash": "911bb219455c10b96d600e8d2426d512"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/author.png",
+        "hash": "d809379a0447721c26bb7dbb72a18733"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/avatar.jpg",
+        "hash": "f37c2e6ef897f94220394477e5c4f785"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/avatar2.jpg",
+        "hash": "f37c2e6ef897f94220394477e5c4f785"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/avatar3.jpg",
+        "hash": "f37c2e6ef897f94220394477e5c4f785"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/avatar4.jpg",
+        "hash": "f37c2e6ef897f94220394477e5c4f785"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/bullet.png",
+        "hash": "ca50dd014ae2e7a85b34c016aca5ad0e"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/comments.png",
+        "hash": "f76ef31acffef0e4a6c6d7178ca3abdd"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/date.png",
+        "hash": "ee1b21a333d8fb7353157d053239521f"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/dropdown.png",
+        "hash": "d28203f20042564453b5671692bd36d0"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/home-header-menu.png",
+        "hash": "416b598720a5a84a111fb978d0c506c6"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/loader.gif",
+        "hash": "df46993044576f83f2c2cc1a64e18f31"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/page_photo.jpg",
+        "hash": "9cfb3447ec151852b38b488b4109e543"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/page_photo2.jpg",
+        "hash": "9cfb3447ec151852b38b488b4109e543"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/page_photo3.jpg",
+        "hash": "9cfb3447ec151852b38b488b4109e543"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/select_bullet.png",
+        "hash": "e59cba8e2afee5e3457c43efee6583c4"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/select_bullet_active.png",
+        "hash": "ccff4b3e6d24b9a5efdbfb43006ab28d"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/switch_11.png",
+        "hash": "4a85b8c0974377110fc03e6c5bc8ff08"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/switch_11_active.png",
+        "hash": "205b1b4cbcb4f3962c75dfab79554bae"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/switch_12.png",
+        "hash": "68b61c0fc9a6e9b7c131004852a50721"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/switch_12_active.png",
+        "hash": "28e606749c33e1960d073e9c8277f859"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/switch_13.png",
+        "hash": "5fb47a804c155afbc12b25616b7c17d5"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/switch_13_active.png",
+        "hash": "84b54f817bb960bd8445313cb3dce468"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/trans_black.png",
+        "hash": "fc350e7a692fc38fb918e35f3ac21116"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/images/trans_black_gradient.png",
+        "hash": "ace1fb132dda0025bcbf4578c6684662"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/img/icons.png",
+        "hash": "486f0204fc9b0f4a11ae2b5e484667ae"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/img/icons.svg",
+        "hash": "5d6e0255a7862551b3a3afea8568f305"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/img/loader.gif",
+        "hash": "074175b89d476152242b7e2de7c038ba"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/img/Thumbs.db",
+        "hash": "cc602f46c8f42342fb34f620c9591594"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/hooks.js",
+        "hash": "a9ac36100f657c1f5d6fe78d433ca95b"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/style.css",
+        "hash": "f53f30249b26424ba3bbacae9fc2fc89"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/upmobile.js",
+        "hash": "0e60cd4f2460c7d45122ed62aabd4af3"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/view.html",
+        "hash": "b3da4b4f6519bf54b948be92f14611da"
+    },
+    {
+        "file": "modules/layout/home/layout_premium_a/view.html_old",
+        "hash": "123e49d823040f297321fa914ec0dccd"
+    },
+    {
+        "file": "modules/opencart/controllers/opencart.js",
+        "hash": "50559539e69780c34a0e35bf0443302a"
+    },
+    {
+        "file": "modules/opencart/factories/opencart.js",
+        "hash": "5795c3a2ec3c4a9e0034926cd7489c14"
+    },
+    {
+        "file": "modules/opencart/styles/opencart.css",
+        "hash": "b5f236b3f721e25b1946bde53d490042"
+    },
+    {
+        "file": "modules/opencart/templates/l1/brand-products-list.html",
+        "hash": "d83ff86abb2c9a8cae6a55b060e1cef9"
+    },
+    {
+        "file": "modules/opencart/templates/l1/view.html",
+        "hash": "6d021fae1eca0f4b6a7fc976b62c210d"
+    },
+    {
+        "file": "modules/opencart/templates/l1/paypal-process-option.html",
+        "hash": "e78650092879e80091fc3756a00535af"
+    },
+    {
+        "file": "modules/opencart/templates/l1/category_product_list.html",
+        "hash": "b584e9c3c2e669b421a294a2b144694c"
+    },
+    {
+        "file": "modules/opencart/templates/l1/confirmation.html",
+        "hash": "b3bf43b2c91f6aaf965308ba7c14675f"
+    },
+    {
+        "file": "modules/opencart/templates/l1/payment-methods.html",
+        "hash": "faf1b2d890d56172e157c91eb4b985ee"
+    },
+    {
+        "file": "modules/opencart/templates/l1/details_before_confirmation.html",
+        "hash": "677c4d6f874200cf53d47fbdaa94345a"
+    },
+    {
+        "file": "modules/opencart/templates/l1/multibanco_details.html",
+        "hash": "eada66de567a1eac68e4856e293adc20"
+    },
+    {
+        "file": "modules/opencart/templates/l1/deposit-or-transfer.html",
+        "hash": "8dab648a04f8357b5f6003d43c4c1c82"
+    },
+    {
+        "file": "modules/opencart/templates/l1/post-new-comments.html",
+        "hash": "433357a7ada6944d7cf1d891dbc1512f"
+    },
+    {
+        "file": "modules/opencart/templates/l1/signup-customer.html",
+        "hash": "3e450c2fe8bba605bf38c1c77098da9f"
+    },
+    {
+        "file": "modules/opencart/templates/l1/stripe.html",
+        "hash": "d8ac63043e95ea61f70b3e38f070f4a6"
+    },
+    {
+        "file": "modules/opencart/templates/l1/order_view_details_popup.html",
+        "hash": "487fb22ed196013ab102438e2a747d3b"
+    },
+    {
+        "file": "modules/opencart/templates/l1/sort-modal-box.html",
+        "hash": "697f86490afc01bcb0239fd483ee6a44"
+    },
+    {
+        "file": "modules/opencart/templates/l1/cart-item-list.html",
+        "hash": "28a86caa2b6f9398c74be79d74038fe8"
+    },
+    {
+        "file": "modules/opencart/templates/l1/address-update-model.html",
+        "hash": "56df4c92719b0c81d43eedb638289ece"
+    },
+    {
+        "file": "modules/opencart/templates/l1/total-reviews-popup.html",
+        "hash": "a3c7266244abb513fe6273d1d227d71b"
+    },
+    {
+        "file": "modules/opencart/templates/l1/order-success-message.html",
+        "hash": "b5351ce040134acd7ba7f6d67eea7a61"
+    },
+    {
+        "file": "modules/opencart/templates/l1/customer-wishlist.html",
+        "hash": "8ab5a0078960fae0d1887ce5302fe96a"
+    },
+    {
+        "file": "modules/opencart/templates/l1/delivery_methods.html",
+        "hash": "f22c7930d4d9e89395c64a152294540f"
+    },
+    {
+        "file": "modules/opencart/templates/l1/reset-password-popup.html",
+        "hash": "74892a092643fb4f1c2db2426c9942f7"
+    },
+    {
+        "file": "modules/opencart/templates/l1/checkout-address.html",
+        "hash": "dab66b75d7b56d69c5c7d3d2243edf4c"
+    },
+    {
+        "file": "modules/opencart/templates/l1/customer_login.html",
+        "hash": "d514aa3829bfe3c5c5816b545e03fb58"
+    },
+    {
+        "file": "modules/opencart/templates/l1/opencart-customer-account.html",
+        "hash": "0ba4c43a4b2600240911ea64b8509bda"
+    },
+    {
+        "file": "modules/opencart/templates/l1/category-list.html",
+        "hash": "a0f9b22ed63e007c1af170692293e91b"
+    },
+    {
+        "file": "modules/opencart/templates/l1/products_details.html",
+        "hash": "341ce43e98c860bce79d13ab032b79b9"
+    },
+    {
+        "file": "modules/opencart/templates/l1/catgory-refine-search.html",
+        "hash": "b9774dc1e4728a334bfb1f4670fc64b7"
+    },
+    {
+        "file": "modules/opencart/services/opencartservices.js",
+        "hash": "eb72fc962b10c5955787e4d1507ccf08"
+    },
+    {
+        "file": "modules/opencart/js/jquery-3.2.1.min.js",
+        "hash": "27a8f25e65bfe1872ebd62e021a0c6ca"
+    },
+    {
+        "file": "modules/woocommerce/factory/woocommerce.js",
+        "hash": "54ea2d96849ee8abc7548f2be355319a"
+    },
+    {
+        "file": "modules/woocommerce/controllers/woocommerce.js",
+        "hash": "f02beb4d68698abad715bae98715af89"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/cart.html",
+        "hash": "ed11c11dd0f975db47203dcb958d7aca"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/success.html",
+        "hash": "77a0c94118d5bbfcb028bbc836f02650"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/product.html",
+        "hash": "e9708ee1fea61f02e386f3800c264301"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/categories.html",
+        "hash": "3acd1a0a3b1138580e65f79f57fc3a45"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/cancel.html",
+        "hash": "5fb815a4f1ceef0b6c40d7f379d1c5af"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/category.html",
+        "hash": "0331fe3065cdda8392759822aaeaae10"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/products.html",
+        "hash": "2d1316f0abae01d5e7ca61192f73a9ec"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/stripe.html",
+        "hash": "35f0410aed0652a6002543907aab8ff0"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/home.html",
+        "hash": "045eafacf1e70411d52ae3c1f80fdb0a"
+    },
+    {
+        "file": "modules/woocommerce/templates/l1/customer.html",
+        "hash": "016644986c0993317387580b34ea8ea3"
+    },
+    {
+        "file": "modules/woocommerce/service/woocommerce.js",
+        "hash": "f8f421fa291ad7bbbebfd80bf0d8d743"
+    },
+    {
+        "file": "modules/woocommerce/directives/sb-rating.js",
+        "hash": "1356f01239d23d675127372e7be4ea18"
+    },
+    {
+        "file": "modules/woocommerce/directives/sb-products.js",
+        "hash": "c4fa425666a71054b2907cb1d2445727"
+    },
+    {
+        "file": "modules/socketio/libraries/socket.io.min.js",
+        "hash": "5457b40ff184b1431d0ecf4c047ac607"
+    },
+    {
+        "file": "modules/chatrooms/libraries/base64.min.js",
+        "hash": "e1d2e008a05805f760010a0e3125d250"
+    },
+    {
+        "file": "modules/chatrooms/controllers/chatrooms.js",
+        "hash": "f6a2d249dc5b9f96fae6922a065d0664"
+    },
+    {
+        "file": "modules/chatrooms/filters/emojify.js",
+        "hash": "3bdd220324dae594fdd4a355d1ec853d"
+    },
+    {
+        "file": "modules/chatrooms/factories/chatrooms.js",
+        "hash": "05f1a0bd68f110326991a9292ff025f5"
+    },
+    {
+        "file": "modules/chatrooms/templates/l2/view.html",
+        "hash": "fd9acc250bed08a3345d49b1814976b4"
+    },
+    {
+        "file": "modules/chatrooms/templates/l1/contextual-menu.html",
+        "hash": "fbb6ec89bb244fd59312faeae8b45708"
+    },
+    {
+        "file": "modules/chatrooms/templates/l1/friendships.html",
+        "hash": "1013106c2245796e42c86f721058be39"
+    },
+    {
+        "file": "modules/chatrooms/templates/l1/modal.html",
+        "hash": "5a17b74161a111be2d2523765b270c76"
+    },
+    {
+        "file": "modules/chatrooms/templates/l1/view.html",
+        "hash": "146d11c4f3c469bf0a91fb6f9beaf6b6"
+    },
+    {
+        "file": "modules/chatrooms/templates/l1/profile.html",
+        "hash": "3cf24d50e74049a72a8116dde2f5a4e9"
+    },
+    {
+        "file": "modules/chatrooms/templates/l1/list.html",
+        "hash": "30b75ac805be51bfd1b774b1d7dc9bd0"
+    },
+    {
+        "file": "modules/chatrooms/stylesheets/chatrooms.css",
+        "hash": "ae76ccaf48c5bc3d84125dab631e1c08"
+    },
+    {
+        "file": "modules/sberbankmobilcart/controllers/sberbankmobilcart.js",
+        "hash": "4cbeb44933282e1e32b027150f98badd"
+    },
+    {
+        "file": "modules/sberbankmobilcart/factories/sberbankmobilcart.js",
+        "hash": "a9971999371d862bcf93e4de1ddd58d6"
+    },
+    {
+        "file": "modules/sberbankmobilcart/templates/l1/payment.html",
+        "hash": "4f02e765636960515b248a11d3da258c"
+    },
+    {
+        "file": "plugins/AdmobPro/www/AdMob.js",
+        "hash": "7858fff47dc3d1af04423691d269c5d7"
+    },
+    {
+        "file": "plugins/AppVersion/www/AppVersionPlugin.js",
+        "hash": "361f0e29712a903671b08a9b5b240e86"
+    },
+    {
+        "file": "plugins/BarcodeScanner/www/barcodescanner.js",
+        "hash": "515e87ab8a00be304795c19d6171bc18"
+    },
+    {
+        "file": "plugins/Camera/www/Camera.js",
+        "hash": "4f18f1be0796961e23fa21d9d94a05d5"
+    },
+    {
+        "file": "plugins/Camera/www/CameraConstants.js",
+        "hash": "6f93968fb69c8ea0b994257a3bbae191"
+    },
+    {
+        "file": "plugins/Camera/www/CameraPopoverHandle.js",
+        "hash": "853874b4846ef3a5959c5aa09bdb5246"
+    },
+    {
+        "file": "plugins/Camera/www/CameraPopoverOptions.js",
+        "hash": "bfa4c4fe43fa1fc630dfafd3426760ba"
+    },
+    {
+        "file": "plugins/Chcp/www/chcp.js",
+        "hash": "e1b92de8db2031db50bf045f00d4ab2e"
+    },
+    {
+        "file": "plugins/Clipboard/www/clipboard.js",
+        "hash": "5e1ccfea1e7c825be56baab6b56cd301"
+    },
+    {
+        "file": "plugins/Device/www/device.js",
+        "hash": "8eadc3e3a6277a720370943415e81266"
+    },
+    {
+        "file": "plugins/File/www/android/FileSystem.js",
+        "hash": "af83b208c3ce4fbf9374035c2a86d745"
+    },
+    {
+        "file": "plugins/File/www/browser/isChrome.js",
+        "hash": "df85afd34f0d3aed821f79ed625f5143"
+    },
+    {
+        "file": "plugins/File/www/DirectoryEntry.js",
+        "hash": "57be8059e35c782017dba77bd1024ca1"
+    },
+    {
+        "file": "plugins/File/www/DirectoryReader.js",
+        "hash": "61ff60cff99ba037440d2732b4cc65ff"
+    },
+    {
+        "file": "plugins/File/www/Entry.js",
+        "hash": "73641e5ad50808b2b0342de497f304e9"
+    },
+    {
+        "file": "plugins/File/www/File.js",
+        "hash": "8efbfcf58e6f3c91625591d319159bad"
+    },
+    {
+        "file": "plugins/File/www/FileEntry.js",
+        "hash": "b59c38f5a9e909e4840c5a8d2122f3fa"
+    },
+    {
+        "file": "plugins/File/www/FileError.js",
+        "hash": "c4e32d50cfda6c408540df29e81e91c9"
+    },
+    {
+        "file": "plugins/File/www/FileReader.js",
+        "hash": "2bb7435f33de101b0bc2eaf4c49b76a0"
+    },
+    {
+        "file": "plugins/File/www/FileSystem.js",
+        "hash": "18136c7629c514edee66f68e28dad9c2"
+    },
+    {
+        "file": "plugins/File/www/fileSystemPaths.js",
+        "hash": "a1acb8a8f848d90af0a3341945a4cf88"
+    },
+    {
+        "file": "plugins/File/www/fileSystems-roots.js",
+        "hash": "d08ec9926459c5125c00ca46c08ef8b4"
+    },
+    {
+        "file": "plugins/File/www/fileSystems.js",
+        "hash": "d4f619bd1902b47bf7e6c5c46102686f"
+    },
+    {
+        "file": "plugins/File/www/FileUploadOptions.js",
+        "hash": "008ee15986849d4ec7c5e98df26d1b4c"
+    },
+    {
+        "file": "plugins/File/www/FileUploadResult.js",
+        "hash": "52808da181fcd2e614c3bcf99d46c00a"
+    },
+    {
+        "file": "plugins/File/www/FileWriter.js",
+        "hash": "26d51340354ff632fb561beb440ce967"
+    },
+    {
+        "file": "plugins/File/www/Flags.js",
+        "hash": "b407036f1a80763cac24026b3ab59f5c"
+    },
+    {
+        "file": "plugins/File/www/LocalFileSystem.js",
+        "hash": "92ecac37dd7ece36dd8f9ef682f438d3"
+    },
+    {
+        "file": "plugins/File/www/Metadata.js",
+        "hash": "efd678481ce2894435578198bcc8efc5"
+    },
+    {
+        "file": "plugins/File/www/ProgressEvent.js",
+        "hash": "7032280e11a827b34f3b9a38c7747e14"
+    },
+    {
+        "file": "plugins/File/www/requestFileSystem.js",
+        "hash": "21a93f0c3be59e3bbe1880a8bdd8a3f4"
+    },
+    {
+        "file": "plugins/File/www/resolveLocalFileSystemURI.js",
+        "hash": "bd98170e45edb05627e59e71c4534c2d"
+    },
+    {
+        "file": "plugins/Geolocation/www/android/geolocation.js",
+        "hash": "db2a03ec2eb68fc6bb2bc7ae98af9f5b"
+    },
+    {
+        "file": "plugins/Geolocation/www/PositionError.js",
+        "hash": "c03086aac3c7e17fd981af2742b1a6fd"
+    },
+    {
+        "file": "plugins/InAppBrowser/www/inappbrowser.js",
+        "hash": "e52ff4a59553effff15d963aa9a16281"
+    },
+    {
+        "file": "plugins/Insomnia/www/Insomnia.js",
+        "hash": "04f301ad2f3ccaf0e594681f717a7dd3"
+    },
+    {
+        "file": "plugins/Keyboard/www/android/keyboard.js",
+        "hash": "a2b55928be213a5b25fd3ae035ac3931"
+    },
+    {
+        "file": "plugins/LocalNotification/www/local-notification-core.js",
+        "hash": "58bdbbf713fbc02f5253ed49d1027083"
+    },
+    {
+        "file": "plugins/LocalNotification/www/local-notification-util.js",
+        "hash": "984d62c20744052198631a0bbb7f305b"
+    },
+    {
+        "file": "plugins/LocalNotification/www/local-notification.js",
+        "hash": "eec0531dbadaf2a3bd9fd99a8ba67e5d"
+    },
+    {
+        "file": "plugins/MusicControls/www/MusicControls.js",
+        "hash": "771734325979219228576b455fa8b96d"
+    },
+    {
+        "file": "plugins/Navigator/www/navigator.js",
+        "hash": "6dc3268899be952a336116074dfc6535"
+    },
+    {
+        "file": "plugins/OfflineMode/www/OfflineMode.js",
+        "hash": "a27aaf2a263608f1602d7b672c02b778"
+    },
+    {
+        "file": "plugins/Permissions/www/permissions.js",
+        "hash": "9c524b4de4d90258db7cb3f8d18b2e51"
+    },
+    {
+        "file": "plugins/Promises/www/promise.js",
+        "hash": "7ad8b8b6ba18c56f73548a6ebfd96b19"
+    },
+    {
+        "file": "plugins/Push/www/push.js",
+        "hash": "a32adb42498f5df82da5988e3fd792da"
+    },
+    {
+        "file": "plugins/SocialSharing/www/SocialSharing.js",
+        "hash": "1aee3e78bca1420e7a579906a99d0a28"
+    },
+    {
+        "file": "plugins/SplashScreen/www/splashscreen.js",
+        "hash": "67999ad8031c4efdddd575a05d3c8ffe"
+    },
+    {
+        "file": "plugins/StatusBar/www/statusbar.js",
+        "hash": "c49621e15860f63e57bb8f63b89d12e2"
+    },
+    {
+        "file": "plugins/WebView/www/webViewPlugin.js",
+        "hash": "c772c8397cf3ab318b65f6ed73d9accd"
+    },
+    {
+        "file": "plugins/WhiteList/whitelist.js",
+        "hash": "cfa78d9c848ca3c269666775ab1074e2"
+    },
+    {
+        "file": "index-prod.html",
+        "hash": "f7cef97fbb01b315da9e965e909e522a"
+    }
+]

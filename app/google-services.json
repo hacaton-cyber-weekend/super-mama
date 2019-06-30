@@ -1,0 +1,46 @@
+{
+    "project_info": {
+        "project_number": "734458587023",
+        "firebase_url": "https://beaming-gadget-107912.firebaseio.com",
+        "project_id": "beaming-gadget-107912",
+        "storage_bucket": "beaming-gadget-107912.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:734458587023:android:8cf37045d693f389",
+                "android_client_info": {
+                    "package_name": "global.appstech.android5d18724bb83de"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "734458587023-2fnuhqsa8i1sgcqgb56aj1o488ttere8.apps.googleusercontent.com",
+                    "client_type": 3
+                },
+                {
+                    "client_id": "734458587023-2fnuhqsa8i1sgcqgb56aj1o488ttere8.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCXjw-9ocSqj4GHnNp-1yzPdnTvZBQ8Rq8"
+                }
+            ],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
